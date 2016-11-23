@@ -1,0 +1,23 @@
+{
+  "name": "youtried.jpg",
+  "version": "1.0.0",
+  "description": "you tried",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/jkk111/workday_hackathon.git"
+  },
+  "keywords": [
+    "you",
+    "tried"
+  ],
+  "author": "jkk111, binaryjigsaw, recoilmoney",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/jkk111/workday_hackathon/issues"
+  },
+  "homepage": "https://github.com/jkk111/workday_hackathon#readme"
+}
